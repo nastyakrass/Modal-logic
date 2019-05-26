@@ -1,4 +1,5 @@
 # Modal-logic
-Some notes on modal logic
-The systems of modal (S5) and polymodal logic (S5^n) are considered. The natural deduction calculation is formulated and verified.
+Some notes on modal and epistemic logic.
+
+The system of polymodal logic (so-called S5^n), which is widely used for reasoning about knowledge, is considered. The natural deduction calculus is formulated and verified. Suffice it to say, the  natural deduction system has been constructed without using any contexts.
 The epistemic paradox called 'muddy chidren puzzle' is also proved and verified.
